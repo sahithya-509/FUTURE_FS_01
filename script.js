@@ -1,2 +1,1 @@
-JavaScript
-alert("Welcome to my portfolio!");
+alert("SYSTEM INITIALIZED 🚀");
